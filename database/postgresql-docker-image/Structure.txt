@@ -1,0 +1,10 @@
+cart_validation_service/
+│
+├── app.py
+├── validation_strategies/
+│   ├── __init__.py
+│   ├── common_item_validation.py
+│   ├── prescription_item_validation.py
+│   ├── special_item_validation.py
+├── database.py
+└── requirements.txt
